@@ -30,11 +30,11 @@ Developed an inventory monitoring system using the ESP8266 microcontroller and u
 ## Documentation
 
 ### Block Diagram
-![Block Diagram](path/to/block_diagram.png)
+![Block Diagram]([path/to/block_diagram.png](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/BLock_Diagram))
 *Description:* Provides a high-level overview of the system architecture and interactions between components.
 
 ### Flow Chart
-![Flow Chart](path/to/flow_chart.png)
+![Flow Chart]([path/to/flow_chart.png](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Flowchart.jpeg))
 *Description:* Illustrates the logical flow of the system, from measuring product distances to processing data and triggering alerts.
 
 ### Hardware Design
