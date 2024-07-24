@@ -30,28 +30,39 @@ Developed an inventory monitoring system using the ESP8266 microcontroller and u
 ## Documentation
 
 ### Block Diagram
-![Block Diagram]([path/to/block_diagram.png](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/BLock_Diagram))
+![Block Diagram](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/BLOCK_Diagram.jpeg)
+
 *Description:* Provides a high-level overview of the system architecture and interactions between components.
 
 ### Flow Chart
-![Flow Chart]([path/to/flow_chart.png](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Flowchart.jpeg))
+![Flow Chart](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Flowchart.jpeg)
+
 *Description:* Illustrates the logical flow of the system, from measuring product distances to processing data and triggering alerts.
 
 ### Hardware Design
-![Hardware Design](path/to/hardware_design.png)
+![Hardware Design](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Hardware_design.jpeg)
+
 *Description:* Details the schematic diagram and connections between the ESP8266, sensors, LEDs, and buzzer.
 
 ### Hardware Setup
-![Hardware Setup](path/to/hardware_setup.png)
+![Hardware Setup](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Hardware_setup.jpeg)
+
 *Description:* Shows the physical arrangement of components on a breadboard or similar setup, including wiring details.
 
 ### IoT Cloud
-![IoT Cloud](path/to/iot_cloud.png)
+![IoT Cloud](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/IOT_cloud.jpeg)
+
 *Description:* Explains the integration with Blynk for data visualization and remote monitoring.
 
 ### Results
-![Results](path/to/results.png)
+![Results](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System/blob/main/Results.jpeg)
+
 *Description:* Summarizes the outcomes of the project, including system performance, effectiveness of alerts, and real-time monitoring.
 
-## License
-[Include your license information here, if applicable]
+### Conclusion
+In summary, using ultrasonic sensors facilitates the accurate and dependable gathering of data
+ by allowing for the exact determination of the quantity of components present in the production
+ inventory. The Arduino microcontroller serves as the system’s brain, coordinating its operations
+ and facilitating smooth communication between the sensor module and the Internet of Things
+ cloud. Effective data transfer to Blynk cloud is made possible by the NodeMCU ESP8266,
+ creating a scalable and secure cloud platform for storing and retrieving inventory-related data.
